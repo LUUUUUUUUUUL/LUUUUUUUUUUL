@@ -8,9 +8,9 @@
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
 
-  - 🤔 &nbsp; Exploring new technologies and developing software solutions.
-  - 💼 &nbsp; I’m currently working on some secret projects.
-  - 🌱 &nbsp; Learning more about Backend Architectures and Frontend Developement.
+  - 🤔 &nbsp; Exploring new technologies and developing software solutions.<br>
+  - 💼 &nbsp; I’m currently working on some secret projects.<br>
+  - 🌱 &nbsp; Learning more about Backend Architectures and Frontend Developement.<br>
   - ✍️ &nbsp; Pursuing Competitive Programming and Gaming as hobbies/side hustles.  
 </div> 
 </div>
